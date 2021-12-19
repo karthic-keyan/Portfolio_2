@@ -10,7 +10,7 @@
     🔹
     <a href="https://github.com/karthiktrp/portfolio_2/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/portfolio_2/issues">Request Feature</a>
+    <a href="https://github.com/karthiktrp/portfolio_2/issues">Request Feature</a>
 </h3>
 
 ## Built With
